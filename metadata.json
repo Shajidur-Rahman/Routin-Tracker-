@@ -1,0 +1,6 @@
+{
+  "name": "RoutineTrack",
+  "description": "Minimalist task and routine tracker with Google Sheets integration, multi-day routine scheduling, and progress analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
